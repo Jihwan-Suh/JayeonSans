@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'JayeonSans';
+  src: url('https://cdn.jsdelivr.net/gh/Jihwan-Suh/JayeonSans/fonts/web/woff/JayeonSans-Regular.woff') format('woff');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'JayeonSans';
+  src: url('https://cdn.jsdelivr.net/gh/Jihwan-Suh/JayeonSans/fonts/web/woff/JayeonSans-Medium.woff') format('woff');
+  font-weight: 500;
+}
