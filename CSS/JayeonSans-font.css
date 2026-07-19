@@ -1,11 +1,15 @@
 @font-face {
   font-family: 'JayeonSans';
-  src: url('https://cdn.jsdelivr.net/gh/Jihwan-Suh/JayeonSans/fonts/web/woff/JayeonSans-Regular.woff') format('woff');
+  src: url('https://cdn.jsdelivr.net/gh/Jihwan-Suh/JayeonSans@main/fonts/web/woff/JayeonSans-Regular.woff') format('woff');
+  font-style: normal;
   font-weight: 400;
+  font-display: swap;
 }
 
 @font-face {
   font-family: 'JayeonSans';
-  src: url('https://cdn.jsdelivr.net/gh/Jihwan-Suh/JayeonSans/fonts/web/woff/JayeonSans-Medium.woff') format('woff');
+  src: url('https://cdn.jsdelivr.net/gh/Jihwan-Suh/JayeonSans@main/fonts/web/woff/JayeonSans-Medium.woff') format('woff');
+  font-style: normal;
   font-weight: 500;
+  font-display: swap;
 }
