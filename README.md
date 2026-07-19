@@ -1,69 +1,51 @@
-<img width="655" height="168" alt="그리기" src="https://github.com/user-attachments/assets/7e70eb81-7c26-4758-81a1-428a714a76ae" />!<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<img width="660" height="330" alt="그리기2" src="https://github.com/user-attachments/assets/00c8d956-95e9-4ff8-9559-ae21daa00b84" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="173.23593mm"
-   height="44.499607mm"
-   viewBox="0 0 173.23593 44.499607"
+   width="660"
+   height="330"
+   viewBox="0 0 174.625 87.3125"
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    sodipodi:docname="그리기.svg"
+   inkscape:export-filename="그리기2.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     inkscape:zoom="0.51339147"
-     inkscape:cx="384.69669"
-     inkscape:cy="219.13103"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
   <defs
      id="defs1">
-    <rect
-       x="97.790054"
-       y="276.84229"
-       width="1133.9425"
-       height="687.10199"
-       id="rect1" />
+    <color-profile
+       name="Agfa-:-Swop-Standard"
+       xlink:href="../../../WINDOWS/system32/spool/drivers/color/RSWOP.icm"
+       id="color-profile1" />
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-20.842017,-72.834188)">
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-68.02801,-10.822638)"
+     transform="translate(-39.910474,24.569554)">
+    <path
+       style="-inkscape-font-specification:'Jayeon Sans Medium';stroke-width:260.001"
+       d="m 342.07422,333.43328 h 50.25 41.8125 v 14.4375 h -34.125 q -1.59375,16.21875 -6.46875,32.625 2.0625,4.125 4.5,8.53125 2.53125,4.40625 7.03125,11.15625 4.5,6.75 9.28125,12.5625 4.875,5.8125 11.53125,11.90625 6.75,6 13.59375,9.9375 l -8.25,14.25 q -7.6875,-4.5 -14.8125,-10.5 -7.125,-6.09375 -12.84375,-12.65625 -5.625,-6.65625 -9.84375,-12.5625 -4.21875,-5.90625 -7.96875,-12.09375 -14.34375,31.59375 -39.84375,51.28125 l -10.03125,-13.03125 q 7.6875,-5.8125 14.15625,-13.125 6.5625,-7.3125 11.15625,-14.34375 4.59375,-7.125 8.34375,-15 3.75,-7.875 6,-14.53125 2.34375,-6.65625 4.03125,-13.59375 1.78125,-7.03125 2.53125,-11.71875 0.84375,-4.6875 1.40625,-9.09375 h -41.4375 z m 127.875,49.5 h 27 v 15 h -27 v 86.4375 h -17.8125 v -168 h 17.8125 z m 175.125,57.375 h -17.8125 v -43.6875 h -41.71875 q -6,7.21875 -14.8125,11.25 -8.8125,3.9375 -19.21875,3.9375 -12.5625,0 -22.59375,-5.4375 -10.03125,-5.4375 -15.75,-15.09375 -5.71875,-9.65625 -5.71875,-21.84375 0,-12.28125 5.71875,-21.9375 5.71875,-9.75 15.75,-15.1875 10.03125,-5.53125 22.59375,-5.625 10.3125,0.0937 19.03125,4.125 8.8125,3.9375 14.8125,11.0625 h 41.90625 v -25.3125 h 17.8125 z m 4.5,40.5 h -113.625 v -53.4375 h 17.8125 v 39 h 95.8125 z m -98.0625,-138.1875 q -7.78125,0 -13.96875,3.375 -6.09375,3.375 -9.5625,9.46875 -3.46875,6.09375 -3.46875,13.96875 0,7.875 3.46875,13.96875 3.46875,6 9.5625,9.375 6.1875,3.28125 13.96875,3.28125 7.59375,0 13.59375,-3.28125 6.09375,-3.375 9.5625,-9.46875 3.46875,-6.09375 3.46875,-13.875 0,-7.78125 -3.46875,-13.875 -3.46875,-6.1875 -9.5625,-9.5625 -6.09375,-3.375 -13.59375,-3.375 z m 41.71875,13.6875 q 1.96875,6.46875 1.96875,13.125 0,6.65625 -1.875,12.75 h 33.9375 v -25.875 z m 123.1875,-33.1875 16.40625,0.28125 q 0,0.75 -0.0937,2.0625 0,1.3125 -0.46875,5.625 -0.46875,4.21875 -1.3125,8.625 -0.75,4.3125 -2.4375,10.6875 -1.59375,6.375 -3.75,12.375 1.6875,2.625 3.84375,5.53125 2.25,2.90625 6.65625,7.78125 4.40625,4.875 9.1875,9.09375 4.78125,4.21875 11.625,8.8125 6.9375,4.5 14.15625,7.5 l -6.375,15.09375 q -8.0625,-3.375 -15.5625,-8.0625 -7.5,-4.6875 -13.40625,-9.84375 -5.8125,-5.25 -10.125,-9.65625 -4.21875,-4.5 -7.875,-9.09375 -14.25,25.59375 -38.71875,39.1875 l -7.96875,-14.34375 q 27.84375,-15.46875 39.75,-49.6875 5.8125,-16.96875 6.46875,-31.96875 z m 93.65625,157.6875 h -113.625 v -52.875 h 17.8125 v 38.4375 h 95.8125 z m -7.125,-113.8125 h 24.375 v 14.8125 h -24.375 v 57.375 h -17.8125 v -123 h 17.8125 z m 187.6875,95.625 h -153.75 v -14.625 h 153.75 z m -79.59375,-130.3125 h 16.40625 q 0,0.5625 -0.0937,1.6875 0,1.03125 -0.5625,4.40625 -0.5625,3.375 -1.5,6.9375 -0.84375,3.46875 -2.8125,8.625 -1.875,5.15625 -4.5,10.03125 2.8125,3.1875 6.1875,6.5625 3.375,3.28125 9.28125,8.15625 5.90625,4.875 12.375,9.1875 6.46875,4.3125 15.46875,8.90625 9.09375,4.5 18.75,7.875 l -5.4375,15.46875 q -11.71875,-4.03125 -22.5,-9.65625 -10.78125,-5.625 -19.03125,-11.625 -8.25,-6 -13.96875,-10.875 -5.625,-4.96875 -10.40625,-9.9375 -19.6875,25.3125 -55.59375,41.8125 l -6.9375,-14.90625 q 41.0625,-18.84375 57.1875,-48.5625 7.21875,-13.875 7.6875,-24.09375 z"
        id="text1"
-       style="font-weight:bold;font-size:192px;line-height:1.4;font-family:'Pyeojin Gothic';-inkscape-font-specification:'Pyeojin Gothic Bold';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);fill:none;fill-opacity:0.400688;stroke:#000000;stroke-width:260.001;stroke-dasharray:none"><tspan
-         x="332.88672"
-         y="468.43328"
-         id="tspan3"><tspan
-           style="font-weight:500;font-family:'Jayeon Sans';-inkscape-font-specification:'Jayeon Sans Medium';fill:#000000;fill-opacity:1;stroke:none"
-           id="tspan2">자연산스</tspan></tspan></text>
+       transform="matrix(0.26458333,0,0,0.26458333,-48.26502,-86.819935)"
+       aria-label="자연산스" />
   </g>
 </svg>
-[Uploading 그리기.svg…]()
+
+
+
+
 # 자연산스 · Jayeon Sans
 
 > 맑고 단정하면서도, 지나치게 반듯하지 않은 자연스러운 한글 산세리프
 
-![자연산스 소개 페이지 미리보기](./preview.png)
 
 ## 소개
 
