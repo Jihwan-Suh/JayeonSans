@@ -93,23 +93,67 @@
 ---
 
 ## 글꼴 표본
+<img width="1468" height="96" alt="그리3기" src="https://github.com/user-attachments/assets/7cefdb2d-5d45-47bf-b451-19b8106d9090" />
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-### Regular · 400
-
-> 산을 닮은 담백함, 문장을 닮은 안정감
-
-### Medium · 500
-
-> **산을 닮은 담백함, 문장을 닮은 안정감**
-
-```text
-가나다라마바사아자차카타파하
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-0123456789
-
-오늘의 문장을 또렷하게 보여주는 일상형 한글 폰트
-```
+<svg
+   width="1468.125"
+   height="96.046875"
+   viewBox="0 0 388.44141 25.412402"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="그리3기.svg"
+   inkscape:export-filename="그리기2.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  
+  <defs
+     id="defs1">
+    <rect
+       x="81.808914"
+       y="163.61783"
+       width="2111.4492"
+       height="264.90506"
+       id="rect3" />
+    <rect
+       x="112.97422"
+       y="767.44556"
+       width="1227.1337"
+       height="214.26144"
+       id="rect2" />
+    <color-profile
+       name="Agfa-:-Swop-Standard"
+       xlink:href="../../../WINDOWS/system32/spool/drivers/color/RSWOP.icm"
+       id="color-profile2" />
+    <rect
+       x="97.790054"
+       y="276.84229"
+       width="1133.9425"
+       height="912.98328"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-15.023107,-47.390912)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-91.703711,-0.93038668)"
+       id="text2"
+       style="font-weight:500;font-size:96px;line-height:1.4;font-family:'Jayeon Sans';-inkscape-font-specification:'Jayeon Sans Medium';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#000000;stroke-width:260.001"><tspan
+         x="401.87695"
+         y="259.41293"
+         id="tspan2"></tspan></text>
+  </g>
+</svg>
 
 ---
 
@@ -117,19 +161,15 @@ abcdefghijklmnopqrstuvwxyz
 
 ```css
 @font-face {
-  font-family: "Jayeon Sans";
-  src: url("./JayeonSans-Regular.ttf") format("truetype");
-  font-style: normal;
+  font-family: 'JayeonSans';
+  src: url('https://cdn.jsdelivr.net/gh/Jihwan-Suh/JayeonSans/fonts/web/woff/JayeonSans-Regular.woff') format('woff');
   font-weight: 400;
-  font-display: swap;
 }
 
 @font-face {
-  font-family: "Jayeon Sans";
-  src: url("./JayeonSans-Medium.ttf") format("truetype");
-  font-style: normal;
+  font-family: 'JayeonSans';
+  src: url('https://cdn.jsdelivr.net/gh/Jihwan-Suh/JayeonSans/fonts/web/woff/JayeonSans-Medium.woff') format('woff');
   font-weight: 500;
-  font-display: swap;
 }
 
 body {
