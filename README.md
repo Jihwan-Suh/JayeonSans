@@ -170,7 +170,7 @@
 
 폰트의 형태를 직접 시험하고 글자 크기, 굵기, 자간과 행간을 조절할 수 있는 HTML 소개 페이지가 포함되어 있습니다.
 
-- [`index.html` 열기](./index.html)
+- [`index.html` 열기](./[index.html](https://notforall.tistory.com/39))
 
 로컬 환경에서는 이 폴더를 그대로 유지한 상태에서 `index.html`을 브라우저로 열면 됩니다.
 
@@ -193,19 +193,6 @@
 
 ## 라이선스
 Jayeon Sans는 [SIL 오픈 폰트 라이선스](https://openfontlicense.org/) 로 배포됩니다. 글꼴 단독 판매를 제외한 모든 상업적 행위 및 수정, 재배포가 가능합니다.
-
----
-
-## 파일 구성
-
-```text
-jayeonsans_site/
-├── README.md
-├── index.html
-├── preview.png
-├── JayeonSans-Regular.ttf
-└── JayeonSans-Medium.ttf
-```
 
 ---
 
