@@ -1,3 +1,64 @@
+<img width="655" height="168" alt="그리기" src="https://github.com/user-attachments/assets/7e70eb81-7c26-4758-81a1-428a714a76ae" />!<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="173.23593mm"
+   height="44.499607mm"
+   viewBox="0 0 173.23593 44.499607"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="그리기.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.51339147"
+     inkscape:cx="384.69669"
+     inkscape:cy="219.13103"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="97.790054"
+       y="276.84229"
+       width="1133.9425"
+       height="687.10199"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.842017,-72.834188)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-68.02801,-10.822638)"
+       id="text1"
+       style="font-weight:bold;font-size:192px;line-height:1.4;font-family:'Pyeojin Gothic';-inkscape-font-specification:'Pyeojin Gothic Bold';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);fill:none;fill-opacity:0.400688;stroke:#000000;stroke-width:260.001;stroke-dasharray:none"><tspan
+         x="332.88672"
+         y="468.43328"
+         id="tspan3"><tspan
+           style="font-weight:500;font-family:'Jayeon Sans';-inkscape-font-specification:'Jayeon Sans Medium';fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan2">자연산스</tspan></tspan></text>
+  </g>
+</svg>
+[Uploading 그리기.svg…]()
 # 자연산스 · Jayeon Sans
 
 > 맑고 단정하면서도, 지나치게 반듯하지 않은 자연스러운 한글 산세리프
